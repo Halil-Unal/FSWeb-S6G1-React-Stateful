@@ -13,7 +13,7 @@ render(
     <Sayac />
     <RuhHalleri />
     <Dondurucu />
-    <Input />
+    <Input /> 
     <Kareler />
     <Programcilar />
   </>
